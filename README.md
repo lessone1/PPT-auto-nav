@@ -1,5 +1,3 @@
-[toc]
-
 # PPT-auto-nav
 
 ## 实际效果
